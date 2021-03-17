@@ -1,0 +1,15 @@
+APScheduler==3.7.0
+colorama==0.4.4
+greenlet==1.0.0
+importlib-metadata==3.7.3
+loguru==0.5.3
+paho-mqtt==1.5.1
+pymodbus==2.5.0
+pyserial==3.5
+pytz==2021.1
+six==1.15.0
+SQLAlchemy==1.4.0
+typing-extensions==3.7.4.3
+tzlocal==2.1
+win32-setctime==1.0.3
+zipp==3.4.1
