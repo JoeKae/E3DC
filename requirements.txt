@@ -9,7 +9,7 @@ pyserial==3.5
 pytz==2021.1
 six==1.15.0
 SQLAlchemy==1.4.0
-typing-extensions==3.7.4.3
+typing-extensions==4.4.0
 tzlocal==2.1
 win32-setctime==1.0.3
 zipp==3.4.1
