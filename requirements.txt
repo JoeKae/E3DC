@@ -12,4 +12,4 @@ SQLAlchemy==1.4.0
 typing-extensions==3.7.4.3
 tzlocal==2.1
 win32-setctime==1.0.3
-zipp==3.4.1
+zipp==3.10.0
